@@ -20,7 +20,7 @@ def encode(message):
         i+=1
     return encoded_msg
 
-msg="AAAABBBBCCCCCCCC"
+msg="AAAABBBBCCCCCCCCCC"
 print(encode(msg))  
 
 
